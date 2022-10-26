@@ -2,10 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## Description :
 
+This project was developed by keeping the mechanism of the google keep in the mind . Moreover it has all the required functionality of the google keep which can be used as a remainder.
+I have also used some material UI based components for better styling of the project.
+
+## Scripts
+Install the dependencies of the project by running the command "npm install" in the terminal .
+
+then in the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
